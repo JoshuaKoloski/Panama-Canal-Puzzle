@@ -1,0 +1,154 @@
+Script started on Wed Dec 10 16:22:57 2014
+sh-4.1$ ./output
+
+Step 0: 
+canama
+panal_
+
+Step 1: 
+piece 'l' is moved right
+canama
+pana_l
+
+Step 2: 
+piece 'a' is moved right
+canama
+pan_al
+
+Step 3: 
+piece 'n' is moved right
+canama
+pa_nal
+
+Step 4: 
+piece 'a' is moved right
+canama
+p_anal
+
+Step 5: 
+piece 'p' is moved right
+canama
+_panal
+
+Step 6: 
+piece 'c' is moved down
+_anama
+cpanal
+
+Step 7: 
+piece 'a' is moved left
+a_nama
+cpanal
+
+Step 8: 
+piece 'p' is moved up
+apnama
+c_anal
+
+Step 9: 
+piece 'a' is moved left
+apnama
+ca_nal
+
+Step 10: 
+piece 'n' is moved down
+ap_ama
+cannal
+
+Step 11: 
+piece 'p' is moved right
+a_pama
+cannal
+
+Step 12: 
+piece 'a' is moved right
+_apama
+cannal
+
+Step 13: 
+piece 'c' is moved up
+capama
+_annal
+
+Step 14: 
+piece 'a' is moved left
+capama
+a_nnal
+
+Step 15: 
+piece 'a' is moved down
+c_pama
+aannal
+
+Step 16: 
+piece 'p' is moved left
+cp_ama
+aannal
+
+Step 17: 
+piece 'n' is moved up
+cpnama
+aa_nal
+
+Step 18: 
+piece 'a' is moved right
+cpnama
+a_anal
+
+Step 19: 
+piece 'a' is moved right
+cpnama
+_aanal
+
+Step 20: 
+piece 'c' is moved down
+_pnama
+caanal
+
+Step 21: 
+piece 'p' is moved left
+p_nama
+caanal
+
+Step 22: 
+piece 'a' is moved up
+panama
+c_anal
+
+Step 23: 
+piece 'a' is moved left
+panama
+ca_nal
+
+Step 24: 
+piece 'n' is moved left
+panama
+can_al
+
+Step 25: 
+piece 'a' is moved left
+panama
+cana_l
+
+Step 26: 
+piece 'l' is moved left
+panama
+canal_
+
+********************QUEUE STATISTICS**********************:
+qCapacity: 50000
+qFront: 1211
+qRear: 28873
+qSize: 27662
+qMax: 27663
+
+*********************HASH STATISTICS**********************:
+hCapacity: 100003
+hCount: 128873
+hEmpty: 27598
+hOne: 35404
+hMax: 9
+sh-4.1$ exit
+exit
+
+Script done on Wed Dec 10 16:23:02 2014
